@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![GoDoc](https://godoc.org/github.com/textileio/go-ds-badger2?status.svg)](https://godoc.org/github.com/textileio/go-ds-badger2)
-[![Build Status](https://travis-ci.org/textileio/go-ds-badger2.svg?branch=master)](https://travis-ci.org/textileio/go-ds-badger2)
+[![GitHub action](https://github.com/textileio/go-ds-badger2/workflows/Tests/badge.svg?style=popout-square)](https://github.com/textileio/go-ds-badger2/actions)
 
 > Datastore implementation using [badger](https://github.com/dgraph-io/badger) as backend.
 
